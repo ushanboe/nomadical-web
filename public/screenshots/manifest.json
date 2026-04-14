@@ -1,0 +1,164 @@
+{
+  "slots": [
+    {
+      "id": "feature-0-card",
+      "component": "FeaturesSection",
+      "featureIndex": 0,
+      "label": "Screenshot: The AI chat interface showing a user question about shelter building and a detailed on-device AI response",
+      "hint": "Recommended: portrait, full screen showing chat bubbles and input field",
+      "filename": "feature-0-card.png"
+    },
+    {
+      "id": "feature-0-deepdive",
+      "component": "FeatureDeepDive",
+      "featureIndex": 0,
+      "label": "Screenshot: The AI chat interface showing a user question about shelter building and a detailed on-device AI response",
+      "hint": "Recommended: portrait, full screen showing chat bubbles and input field",
+      "filename": "feature-0-deepdive.png"
+    },
+    {
+      "id": "feature-1-card",
+      "component": "FeaturesSection",
+      "featureIndex": 1,
+      "label": "Screenshot: The document chat screen showing an imported PDF and an AI response citing content from the uploaded file",
+      "hint": "Recommended: portrait, showing document title at top and chat conversation below",
+      "filename": "feature-1-card.png"
+    },
+    {
+      "id": "feature-1-deepdive",
+      "component": "FeatureDeepDive",
+      "featureIndex": 1,
+      "label": "Screenshot: The document chat screen showing an imported PDF and an AI response citing content from the uploaded file",
+      "hint": "Recommended: portrait, showing document title at top and chat conversation below",
+      "filename": "feature-1-deepdive.png"
+    },
+    {
+      "id": "feature-2-card",
+      "component": "FeaturesSection",
+      "featureIndex": 2,
+      "label": "Screenshot: The article library screen showing category tiles and a search results list with BM25-ranked articles",
+      "hint": "Recommended: portrait, showing category grid at top and search results list below",
+      "filename": "feature-2-card.png"
+    },
+    {
+      "id": "feature-2-deepdive",
+      "component": "FeatureDeepDive",
+      "featureIndex": 2,
+      "label": "Screenshot: The article library screen showing category tiles and a search results list with BM25-ranked articles",
+      "hint": "Recommended: portrait, showing category grid at top and search results list below",
+      "filename": "feature-2-deepdive.png"
+    },
+    {
+      "id": "feature-3-card",
+      "component": "FeaturesSection",
+      "featureIndex": 3,
+      "label": "Screenshot: The AI Scanner screen showing a camera viewfinder with an on-device identification result displayed below",
+      "hint": "Recommended: portrait, camera viewfinder occupying upper two-thirds with result card below",
+      "filename": "feature-3-card.png"
+    },
+    {
+      "id": "feature-3-deepdive",
+      "component": "FeatureDeepDive",
+      "featureIndex": 3,
+      "label": "Screenshot: The AI Scanner screen showing a camera viewfinder with an on-device identification result displayed below",
+      "hint": "Recommended: portrait, camera viewfinder occupying upper two-thirds with result card below",
+      "filename": "feature-3-deepdive.png"
+    },
+    {
+      "id": "feature-4-card",
+      "component": "FeaturesSection",
+      "featureIndex": 4,
+      "label": "Screenshot: The document import screen showing an OCR processing indicator on a scanned PDF file",
+      "hint": "Recommended: portrait, document list with a processing status badge on the scanned file entry",
+      "filename": "feature-4-card.png"
+    },
+    {
+      "id": "feature-4-deepdive",
+      "component": "FeatureDeepDive",
+      "featureIndex": 4,
+      "label": "Screenshot: The document import screen showing an OCR processing indicator on a scanned PDF file",
+      "hint": "Recommended: portrait, document list with a processing status badge on the scanned file entry",
+      "filename": "feature-4-deepdive.png"
+    },
+    {
+      "id": "feature-5-card",
+      "component": "FeaturesSection",
+      "featureIndex": 5,
+      "label": "Screenshot: The digital compass screen showing a compass rose, current bearing, and true north correction indicator",
+      "hint": "Recommended: portrait, compass rose centered with bearing readout and declination value displayed",
+      "filename": "feature-5-card.png"
+    },
+    {
+      "id": "feature-5-deepdive",
+      "component": "FeatureDeepDive",
+      "featureIndex": 5,
+      "label": "Screenshot: The digital compass screen showing a compass rose, current bearing, and true north correction indicator",
+      "hint": "Recommended: portrait, compass rose centered with bearing readout and declination value displayed",
+      "filename": "feature-5-deepdive.png"
+    },
+    {
+      "id": "feature-6-card",
+      "component": "FeaturesSection",
+      "featureIndex": 6,
+      "label": "Screenshot: The Field Journal entry screen showing a text note, an attached photo thumbnail, and GPS coordinates",
+      "hint": "Recommended: portrait, entry form with text area, photo thumbnail, and GPS coordinate display",
+      "filename": "feature-6-card.png"
+    },
+    {
+      "id": "feature-6-deepdive",
+      "component": "FeatureDeepDive",
+      "featureIndex": 6,
+      "label": "Screenshot: The Field Journal entry screen showing a text note, an attached photo thumbnail, and GPS coordinates",
+      "hint": "Recommended: portrait, entry form with text area, photo thumbnail, and GPS coordinate display",
+      "filename": "feature-6-deepdive.png"
+    },
+    {
+      "id": "feature-7-card",
+      "component": "FeaturesSection",
+      "featureIndex": 7,
+      "label": "Screenshot: The checklists screen showing a pre-built emergency checklist with checked and unchecked items",
+      "hint": "Recommended: portrait, checklist with item rows showing checkboxes and a mix of completed and pending items",
+      "filename": "feature-7-card.png"
+    },
+    {
+      "id": "feature-7-deepdive",
+      "component": "FeatureDeepDive",
+      "featureIndex": 7,
+      "label": "Screenshot: The checklists screen showing a pre-built emergency checklist with checked and unchecked items",
+      "hint": "Recommended: portrait, checklist with item rows showing checkboxes and a mix of completed and pending items",
+      "filename": "feature-7-deepdive.png"
+    },
+    {
+      "id": "feature-8-card",
+      "component": "FeaturesSection",
+      "featureIndex": 8,
+      "label": "Screenshot: The SOS mode screen showing the active signaling state with torch, screen, and vibration indicators highlighted",
+      "hint": "Recommended: portrait, full-screen SOS activation view with status indicators for each signaling channel",
+      "filename": "feature-8-card.png"
+    },
+    {
+      "id": "feature-8-deepdive",
+      "component": "FeatureDeepDive",
+      "featureIndex": 8,
+      "label": "Screenshot: The SOS mode screen showing the active signaling state with torch, screen, and vibration indicators highlighted",
+      "hint": "Recommended: portrait, full-screen SOS activation view with status indicators for each signaling channel",
+      "filename": "feature-8-deepdive.png"
+    },
+    {
+      "id": "feature-9-card",
+      "component": "FeaturesSection",
+      "featureIndex": 9,
+      "label": "Screenshot: The Medical ID screen showing fields for blood type, allergies, medications, and emergency contacts filled in",
+      "hint": "Recommended: portrait, structured form layout with labeled fields and entered data visible",
+      "filename": "feature-9-card.png"
+    },
+    {
+      "id": "feature-9-deepdive",
+      "component": "FeatureDeepDive",
+      "featureIndex": 9,
+      "label": "Screenshot: The Medical ID screen showing fields for blood type, allergies, medications, and emergency contacts filled in",
+      "hint": "Recommended: portrait, structured form layout with labeled fields and entered data visible",
+      "filename": "feature-9-deepdive.png"
+    }
+  ]
+}
